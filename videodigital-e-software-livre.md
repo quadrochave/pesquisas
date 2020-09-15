@@ -42,7 +42,7 @@ DCP no Blender
 
 [https://mango.blender.org/production/4k-dcp-available-for-testing/](https://www.google.com/url?q=https://mango.blender.org/production/4k-dcp-available-for-testing/&sa=D&ust=1600203845088000&usg=AOvVaw3zcE2zTtHbL6YN7dYQUIiz)
 
-###Ultra HD Blu Ray
+Ultra HD Blu Ray
 
 [https://en.wikipedia.org/wiki/Ultra\_HD\_Blu-ray](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Ultra_HD_Blu-ray&sa=D&ust=1600203845089000&usg=AOvVaw3IpPikBuj4oImixxpN5Pmg)
 
@@ -104,9 +104,9 @@ Bit Depth (Color Depth)
 
 [https://graphicdesign.stackexchange.com/questions/51371/16-bit-float-and-32-bit-float-doubts](https://www.google.com/url?q=https://graphicdesign.stackexchange.com/questions/51371/16-bit-float-and-32-bit-float-doubts&sa=D&ust=1600203845098000&usg=AOvVaw34jQF9Ph_pXTDZmCc6JLiN)
 
-[https://www.cambridgeincolour.com/tutorials/bit-depth.htm](https://www.google.com/url?q=https://www.cambridgeincolour.com/tutorials/bit-depth.htm&sa=D&ust=1600203845099000&usg=AOvVaw1meJTysI5hTyBUgDzvbhDg)
-
 ### Color depth / color space
+
+[https://www.cambridgeincolour.com/tutorials/bit-depth.htm](https://www.google.com/url?q=https://www.cambridgeincolour.com/tutorials/bit-depth.htm&sa=D&ust=1600203845099000&usg=AOvVaw1meJTysI5hTyBUgDzvbhDg)
 
 MLT color depth
 
