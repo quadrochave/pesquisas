@@ -1,6 +1,6 @@
-Referências de estudo  - Vídeo Digital e Software Livre
+## Referências de estudo  - Vídeo Digital e Software Livre 
 
-Compressão Intra-frame e codecs
+### Compressão Intra-frame e codecs
 
 [http://www.fazendovideo.com.br/infotec/compressao-intra-frame.html](https://www.google.com/url?q=http://www.fazendovideo.com.br/infotec/compressao-intra-frame.html&sa=D&ust=1600203845082000&usg=AOvVaw09MhOAnbTdSI7b6uPjyJ_P)
 
@@ -42,11 +42,11 @@ DCP no Blender
 
 [https://mango.blender.org/production/4k-dcp-available-for-testing/](https://www.google.com/url?q=https://mango.blender.org/production/4k-dcp-available-for-testing/&sa=D&ust=1600203845088000&usg=AOvVaw3zcE2zTtHbL6YN7dYQUIiz)
 
-Ultra HD Blu Ray
+###Ultra HD Blu Ray
 
 [https://en.wikipedia.org/wiki/Ultra\_HD\_Blu-ray](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Ultra_HD_Blu-ray&sa=D&ust=1600203845089000&usg=AOvVaw3IpPikBuj4oImixxpN5Pmg)
 
-Formatos HDR
+### Formatos HDR
 
 [https://www.cnet.com/news/dolby-vision-hdr10-advanced-hdr-and-hlg-hdr-formats-explained/](https://www.google.com/url?q=https://www.cnet.com/news/dolby-vision-hdr10-advanced-hdr-and-hlg-hdr-formats-explained/&sa=D&ust=1600203845090000&usg=AOvVaw0niWu-dugPyIjshqWonGTH)
 
@@ -67,8 +67,6 @@ HDR10 e HDR10+  
 Luma HDR - livre e opensource
 
 [http://lumahdrv.org/](https://www.google.com/url?q=http://lumahdrv.org/&sa=D&ust=1600203845093000&usg=AOvVaw0bnKwRJYDUluJjv3Kq7NsB)
-
-Trabalhando com HDR
 
 HDR, av1 codec e Netflix
 
@@ -108,6 +106,8 @@ Bit Depth (Color Depth)
 
 [https://www.cambridgeincolour.com/tutorials/bit-depth.htm](https://www.google.com/url?q=https://www.cambridgeincolour.com/tutorials/bit-depth.htm&sa=D&ust=1600203845099000&usg=AOvVaw1meJTysI5hTyBUgDzvbhDg)
 
+### Color depth / color space
+
 MLT color depth
 
 [https://www.mltframework.org/blog/mlt\_adds\_gpu\_image\_processing/](https://www.google.com/url?q=https://www.mltframework.org/blog/mlt_adds_gpu_image_processing/&sa=D&ust=1600203845099000&usg=AOvVaw0OgOp5hVcwSDjH62RsJrUL)
@@ -124,7 +124,7 @@ Escolhendo o colorspace correto
 
 [https://www.richardlackey.com/choosing-video-color-space/](https://www.google.com/url?q=https://www.richardlackey.com/choosing-video-color-space/&sa=D&ust=1600203845101000&usg=AOvVaw1piXprYZIJGHdXTX4QrQSj)
 
-FFMPEG
+### FFMPEG
 
 Sequência de imagem para ProRes:
 
@@ -146,7 +146,7 @@ Verificar encoder / decoder
 
 ffmpeg -v quiet -codecs |grep CODEC
 
-Definições
+### Definições
 
 Encoder = writing library:
 
