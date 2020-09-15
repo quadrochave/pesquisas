@@ -96,7 +96,10 @@ Pintura em HDR
 
 [https://docs.krita.org/en/reference\_manual/hdr\_display.html](https://www.google.com/url?q=https://docs.krita.org/en/reference_manual/hdr_display.html&sa=D&ust=1600203845097000&usg=AOvVaw1G28MXy5DlAdFX1Pa9ikhE)
 
-Bit Depth (Color Depth)
+
+### Color depth / color space
+
+[https://www.cambridgeincolour.com/tutorials/bit-depth.htm](https://www.google.com/url?q=https://www.cambridgeincolour.com/tutorials/bit-depth.htm&sa=D&ust=1600203845099000&usg=AOvVaw1meJTysI5hTyBUgDzvbhDg)
 
 [https://www.abelcine.com/articles/blog-and-knowledge/tutorials-and-guides/hd-formats-bit-rate-vs-bit-depth](https://www.google.com/url?q=https://www.abelcine.com/articles/blog-and-knowledge/tutorials-and-guides/hd-formats-bit-rate-vs-bit-depth&sa=D&ust=1600203845097000&usg=AOvVaw1xV9e6ya8kqQaj9RPCzr9F)
 
@@ -104,9 +107,6 @@ Bit Depth (Color Depth)
 
 [https://graphicdesign.stackexchange.com/questions/51371/16-bit-float-and-32-bit-float-doubts](https://www.google.com/url?q=https://graphicdesign.stackexchange.com/questions/51371/16-bit-float-and-32-bit-float-doubts&sa=D&ust=1600203845098000&usg=AOvVaw34jQF9Ph_pXTDZmCc6JLiN)
 
-### Color depth / color space
-
-[https://www.cambridgeincolour.com/tutorials/bit-depth.htm](https://www.google.com/url?q=https://www.cambridgeincolour.com/tutorials/bit-depth.htm&sa=D&ust=1600203845099000&usg=AOvVaw1meJTysI5hTyBUgDzvbhDg)
 
 MLT color depth
 
