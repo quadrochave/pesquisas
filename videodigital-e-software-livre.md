@@ -24,7 +24,7 @@ x265
 
 [https://x265.readthedocs.io/en/default/releasenotes.html](https://www.google.com/url?q=https://x265.readthedocs.io/en/default/releasenotes.html&sa=D&ust=1600203845085000&usg=AOvVaw2KkmkeGG14zz7idgICBTiH)
 
-### Digital Cinema Distribution Master / DCDM {#h.58r91kd1p3yu .c5}
+### Digital Cinema Distribution Master / DCDM 
 
 [https://digital-cinema-mastering.com/en/digital-cinema-faq/what-is-a-digital-cinema-distribution-master-dcdm/](https://www.google.com/url?q=https://digital-cinema-mastering.com/en/digital-cinema-faq/what-is-a-digital-cinema-distribution-master-dcdm/&sa=D&ust=1600203845086000&usg=AOvVaw2ilKxfsJXsQs3GVhF8MnQZ)
 
