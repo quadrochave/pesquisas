@@ -18,6 +18,8 @@ AV1 - livre
 
 [https://en.wikipedia.org/wiki/AV1](https://www.google.com/url?q=https://en.wikipedia.org/wiki/AV1&sa=D&ust=1600203845084000&usg=AOvVaw2ZTPdtfTfKXdELeci1PuDG)
 
+[https://avalanchenoticias.com.br/noticias-da-rede/av2-ja-esta-sendo-desenvolvido-como-sucessor-do-codec-de-video-av1/] AV2
+
 Atualização de codecs
 
 x265
